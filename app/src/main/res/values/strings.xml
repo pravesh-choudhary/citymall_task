@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Citymall_Task</string>
+
+    //bottom nav
+    <string name="gullak">गुल्लक</string>
+    <string name="home">होम</string>
+    <string name="parivar">परिवार</string>
+    <string name="orders">ऑर्डर्स</string>
+    <string name="customers">कस्टमर्स</string>
+
+    //feed list item
+    <string name="like">लाइक्स</string>
+    <string name="comment">कमेंट्स</string>
+    <string name="share">शेयर करें</string>
+
+    //dummy strings feed list
+    <string name="dummy_feed">“हमेशा खुद में होंसला रखो” मैंने अपने आप में होंसला रखा और मेहनत के दम पर आज मैं अपने परिवार का कल बेहतर करने में समर्थ हूँ |</string>
+    <string name="dummy_location">रेवाड़ी • १५ मिनट</string>
+    <string name="dummy_name">अमित कुमार | डायरेक्टर</string>
+    <string name="hint_comment_box">अपना कमेंट लिखें...</string>
+    <string name="all">सभी</string>
+    <string name="trending">ट्रेंडिंग</string>
+    <string name="citymall">सिटीमॉल</string>
+    <string name="inspection">इंस्पिरेशनल</string>
+    <string name="dummy_content">“हमेशा खुद में होंसला रखो” \n मैंने अपने आप में होंसला रखा और मेहनत के दम पर आज मैं अपने परिवार का कल बेहतर करने में समर्थ हूँ |</string>
+    <string name="post">पोस्ट लिखें</string>
+
+</resources>

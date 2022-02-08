@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_common">16sp</dimen>
+    <dimen name="margin_top_common">12sp</dimen>
+    <dimen name="margin_start_end_big">46sp</dimen>
+    <dimen name="margin_start_end_small">5sp</dimen>
+    <dimen name="margin_top_bottom_medium">20sp</dimen>
+    <dimen name="margin_end_icon">14sp</dimen>
+    <dimen name="height_nav">56sp</dimen>
+    <dimen name="margin_start_medium">24dp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_dark_weight">600</dimen>
+    <dimen name="line_height_medium">27px</dimen>
+    <dimen name="img_size_medium">32sp</dimen>
+    <dimen name="margin_end_medium">26sp</dimen>
+    <dimen name="height_chip">52dp</dimen>
+    <dimen name="margin_top_small">8sp</dimen>
+    <dimen name="line_height_small">20sp</dimen>
+    <dimen name="line_height_very_small">18sp</dimen>
+    <dimen name="chip_spacing">12sp</dimen>
+    <dimen name="button_width">140sp</dimen>
+    <dimen name="button_height">48sp</dimen>
+    <dimen name="margin_bottom_small">8sp</dimen>
+</resources>

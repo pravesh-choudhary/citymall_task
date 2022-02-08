@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Citymall_Task" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Chip">
+        <item name="iconStartPadding">@dimen/margin_common</item>
+        <item name="textEndPadding">@dimen/margin_common</item>
+        <item name="textStartPadding">@dimen/chip_space_text</item>
+        <item name="android:selectable">true</item>
+        <item name="android:checkable">false</item>
+        <item name="android:textColor">@color/text_chip</item>
+        <item name="checkedIconTint">@color/chip_border_selected</item>
+        <item name="chipStrokeColor">@color/chip_stroke</item>
+        <item name="chipStrokeWidth">@dimen/chip_stroke_width</item>
+        <item name="chipBackgroundColor">@color/bg_chip_selected</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textAppearance">@style/Chip.text</item>
+        <item name="lineHeight">@dimen/line_height_small</item>
+    </style>
+
+    <style name="Chip.text">
+
+        <item name="fontFamily">@font/poppins</item>
+        <item name="fontWeight"></item>
+    </style>
+
+    <style name="Chip.withouticon" parent="Chip">
+        <item name="textStartPadding">@dimen/margin_common</item>
+    </style>
+
+    <style name="feature_text_container">
+        <item name="fontWeight">500</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/feature_text</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="lineHeight">@dimen/line_height_very_small</item>
+    </style>
+
+    <style name="feature_text" parent="feature_text_container">
+        <item name="fontWeight">400</item>
+    </style>
+
+    <style name="TextMedium">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="fontWeight">600</item>
+        <item name="android:textStyle">normal</item>
+        <item name="lineHeight">@dimen/line_height_small</item>
+    </style>
+
+    <dimen name="chip_space_text">8sp</dimen>
+    <dimen name="chip_stroke_width">2sp</dimen>
+</resources>

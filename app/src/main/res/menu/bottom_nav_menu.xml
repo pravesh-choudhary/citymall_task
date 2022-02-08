@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_orders" android:title="होम"></item>
+    <item android:icon="@drawable/ic_parivar" android:title="परिवार"></item>
+    <item android:icon="@drawable/ic_orders" android:title="ऑर्डर्स"></item>
+    <item android:icon="@drawable/ic_customers" android:title="कस्टमर्स"></item>
+    <item android:icon="@drawable/ic_gullak" android:title="गुल्लक"></item>
+</menu>
